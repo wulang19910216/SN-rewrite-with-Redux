@@ -1,0 +1,22 @@
+{
+  "scripts": {
+    "start": "react-native start",
+    "android": "react-native run-android",
+    "ios": "react-native run-ios"
+  },
+  "dependencies": {
+    "react": "16.5.0",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-32.0.0.tar.gz",
+    "redux": "^4.0.1",
+    "react-navigation": "3.2.3",
+    "react-redux": "6.0.1",
+    "react-relay": "^4.0.0",
+    "redux-logger": "^3.0.1",
+    "redux-persist": "^5.7.0",
+    "redux-thunk": "2.3.0"
+  },
+  "devDependencies": {
+    "babel-preset-expo": "^5.0.0"
+  },
+  "private": true
+}
